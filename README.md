@@ -49,6 +49,8 @@ Do this for all the folders.
 
 ### Replacing GNOMEs status bar with polybar
 Well for that I just use the extension <a href="https://extensions.gnome.org/extension/545/hide-top-bar/">hide-top-bar</a>.
+
+
 ![Settings for the extension](https://github.com/Axodus/axodusDotfiles/blob/master/Pics/hideTB.png)
 
 After that, add this to your startup applications: `polybar -r main`
