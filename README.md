@@ -43,7 +43,7 @@ Copy all of the folders into your own .config
 
 Example:
 ```
-sudo cp -r alacritty/ ~/.config/
+cp -r alacritty/ ~/.config/
 ```
 Do this for all the folders.
 
