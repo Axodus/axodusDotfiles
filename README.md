@@ -57,3 +57,11 @@ After that, add this to your startup applications: `polybar -r main`
 
 ## Spicetify + Dribbblish
 You can find the installation guide in <a href="https://github.com/khanhas/spicetify-cli/wiki/Installation">this link</a>.
+
+## My dock/App menu
+For my app dock I use the GNOME extension <a href="https://extensions.gnome.org/extension/307/dash-to-dock/">dash-to-dock</a>
+
+
+![Configuration for dash-to-dock: Position and Size](https://github.com/Axodus/axodusDotfiles/blob/master/Pics/dockPOS.png)
+
+![Configuration for dash-to-dock: Appearance](https://github.com/Axodus/axodusDotfiles/blob/master/Pics/dockAppearance.png)
