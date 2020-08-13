@@ -24,7 +24,7 @@ For the power menu I am using rofi, install <a href="https://github.com/davatori
 My notification manager is the beloved dunst with my config. You can instal dunst via <a href="https://github.com/dunst-project/dunst">this GitHub repo</a>.
 
 ### spicetify
-For the Spotify theme I am using <a href="https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish">Dribbblish</a>, which is a theme made for <a href="https://github.com/khanhas/Spicetify"> Spicetify</a>.
+For the Spotify theme I am using <a href="https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish">Dribbblish</a>, which is a theme made for <a href="https://github.com/khanhas/spicetify-cli"> Spicetify</a>.
 
 ## My config
 Clone this repo
