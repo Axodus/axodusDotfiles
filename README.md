@@ -2,6 +2,8 @@
 
 Hey guys, welcome to my dotfiles. You will find attached every main feature of my setup.
 
+![Image of the setup](https://i.redd.it/ctlibtrzc8g51.png)
+
 ## Installation of stuff
 
 Let's start with what we need:
